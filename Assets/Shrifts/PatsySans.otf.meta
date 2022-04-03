@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f885a072eaade0c41a8fdf73eafaf8b4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Patsy Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6696fe3529c7405469398ceb6d476a63, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
